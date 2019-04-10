@@ -1,0 +1,9 @@
+[submodule "Libraries/Kha"]
+	path = Libraries/Kha
+	url = https://github.com/Kode/Kha
+[submodule "Libraries/haxeui-core"]
+	path = Libraries/haxeui-core
+	url = https://github.com/haxeui/haxeui-core
+[submodule "Libraries/haxeui-kha"]
+	path = Libraries/haxeui-kha
+	url = https://github.com/haxeui/haxeui-kha

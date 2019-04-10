@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<vbox width='100%' height='100%'>
+	<button id='button' text='Touch Me' />
+	<optionbox text="Option1" selected="false" groupName="defaultGroup"/>
+	<optionbox text="Option2" selected="false" groupName="defaultGroup"/>
+</vbox>
